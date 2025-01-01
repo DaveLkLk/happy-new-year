@@ -4,7 +4,8 @@ body {
 	overflow: hidden;
 	height: 100vh;
 	cursor: pointer;
-	font-family: "Arial", sans-serif;
+	/* font-family: "Arial", sans-serif; */
+	font-family: "Arial", "Segoe UI Emoji", "Noto Color Emoji", sans-serif;
 	color: white;
 	text-align: center;
 	display: flex;
